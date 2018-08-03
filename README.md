@@ -1,2 +1,18 @@
-# season-design-pattern-guerra
-Desgin Pattern
+# Season Design Pattern - Eduardo Guerra
+
+### Strategy
+
+### Hook Method
+
+### Null Object
+
+### Template Method
+
+### Composition
+
+### Hook Class
+
+### State
+
+### Observer
+
