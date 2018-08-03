@@ -16,3 +16,7 @@
 
 ### Observer
 
+### Composite
+
+### Chain of Responsibility
+
